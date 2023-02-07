@@ -1,0 +1,33 @@
+@use "./../tools/breakpoints" as *;
+
+$sidebar-width: 300px;
+
+.app-layout {
+  position: fixed;
+  inset: 0;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  grid-template-rows: auto minmax(0, 1fr);
+  overflow: hidden;
+}
+
+.app-layout__wrapper {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr);
+  grid-template-rows: minmax(0, 1fr);
+  overflow: hidden;
+}
+
+.app-layout__sidebar {
+  block-size: 100%;
+  position: relative;
+
+  @include media-breakpoint-up("xl") {
+    inline-size: $sidebar-width;
+    overflow: auto;
+  }
+}
+
+.app-layout__main {
+  overflow: auto;
+}
