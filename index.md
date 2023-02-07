@@ -1,8 +1,10 @@
 ---
-title: "Intro"
+title: "How To Not Drop a Camera"
 panel: false
 ---
 
-Eleventy Notes is a documentation template for [Eleventy](https://www.11ty.dev/), mainly designed to publish your personal notes but can be used for small documentation projects as well. For larger, more complex documentation it's better to use a real documentation tool like [Docusaurus](https://docusaurus.io/) or [Nextra](https://nextra.site/).
+How To Not Drop a Camera is my collection of photography notes.
 
-This documentation is built with Eleventy Notes (of course). If you want to use this template read the [[Getting started]] guide.
+This is an opinionated photography resource, focused on the craft - not art - of photography.
+
+This is a reference specifically for my students, and is not a holistic photography education resource. It will be, however, quite useful for anybody wanting to take their photography a step further.
