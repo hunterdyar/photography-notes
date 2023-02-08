@@ -16,6 +16,11 @@ I do recommend going "on brand" for this, the cheap imitation ones have flimsy l
 ## Just The Legs?
 Tripod Heads and Legs are sold separately. This makes sense, because you want the right head for you, and you want the right legs for you.
 
+## Video?
+Photo and Video tripods are separate things. Video tripods are sturdier, heavier, and can do things like pan/tilt smoothly and have more ways to level the equipment. Photo tripods are lighter, more portable, can be set up and torn down more quickly.
+
+If you want a video tripod, get a video tripod. If you want a photo tripod, then get that. A "hybrid" photo/video tripod is probably just a small video tripod. 
+
 ## Things To Consider About Tripods
 
 - **Head Type**. I prefer ball-heads because my biggest concern is usually quickly leveling a camera, and I don't do video. Ball-heads are good balance of weight and price, but can be annoying to fine-tine adjustments
@@ -23,7 +28,7 @@ Tripod Heads and Legs are sold separately. This makes sense, because you want th
 - **Material**. Don't buy a plastic tripod. Carbon fiber or aluminum. Or wood, actually, if you find a good old one, it will probably perform surprisingly well.
 - **Ease of Cleaning**. A tripod should be able to be completely disassembled, cleaned of its sand and cruft and anything, and then put back together easily. Replacement parts should be available for purchase or covered by warranty.
 - **Weight and Easy of Carrying**. Some heavier tripods just have convenient grips and places to mount straps. Some lighter tripods are annoying to hold. Try and get your hands on some friends tripods or go into a store and try them.
-- **Ease of locking and unlocking**. Cheaper tripods will take just that extra twist of the knobs. One extra hand re-adjustment and twist, times 3-5 per leg, times 3 legs, every time you set up or tear down the tripod. It will add up, and the better ones are worth it.
+- **Ease of locking and unlocking**. Cheaper tripods will take just that little extra twist of the knobs to loosen. Gross. One extra hand re-adjustment and twist, times 3-5 per leg, times 3 legs, every time you set up or tear down the tripod. It will add up, and the better ones are worth it.
 - **Replaceable Feet**. Can you unscrew the feet and install spikey cleats for grass? But also, the rubber feet won't slowly come unscrewed over time.
 - **Reversable Center Column**. I find myself flipping my center column upside down and shooting low-angle or close-up photos a lot. It's a feature I wouldn't give up in any tripod I buy, but you may not care.
 - **Removable/Monopod Leg**. Another preference. I like removing legs and having monopods, but some may want one less screw or point of failure for the tripod.
