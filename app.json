@@ -10,6 +10,10 @@
       {
         "pattern": "^/Parts/",
         "label": "Camera Parts"
+      },
+      {
+        "pattern": "^/Purchasing/",
+        "label": "Purchasing"
       }
     ]
   }
