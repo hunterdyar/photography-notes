@@ -28,7 +28,7 @@ Don't be lured by the amazing images that full-frame cameras can shoot. [[Crop S
 
 Micro 4/3 cameras, an even smaller image sensor than "crop" are also pretty good cameras, although not as many are being made these days.
 
-## Get an Interchangable Lens System
+## Get an Interchangeable Lens System
 Lenses are the best point of upgrade for your camera. A quality lens will last a lifetime, and stay with you through generations of camera body upgrades. 
 
 > An amazing lens on a cheap camera body is an amazing camera. A bad lens on an amazing camera body is a bad camera.
@@ -80,7 +80,7 @@ Borrowing and sharing equipment is as good a reason to pick one brand over anoth
 # So What Camera Should I Buy?
 I can't answer that, check the used prices... and your budget... if you want video features, that changes things (enter: panasonic)....
 
-Okay, you should buy a **Fujifilm X-T20**. FIne.
+Okay, you should buy a **Fujifilm X-T20**. Fine.
 
 I picked a camera for you that you will love and won't have to replace anytime soon, that isn't crazy expensive, but will still hold some used/resale value. It supports advanced features like connecting to flashes and tethering. Should flash photography start to interest you, you wont have to purchase a new camera. It has nice-to-haves like HDMI out and wireless tethering, and so on. The jpeg's out of the cameras are sharable instantly, without getting into editing, but these features are optional, you shoot RAW and edit away if you want. 
 
