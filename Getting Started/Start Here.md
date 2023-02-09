@@ -1,6 +1,7 @@
 ---
 title: "Start Here"
 tags: ["basics"]
+sort: 0
 ---
 # Start Here: Don’t Drop Things
 

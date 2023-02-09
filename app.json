@@ -12,6 +12,10 @@
         "label": "Camera Parts"
       },
       {
+        "pattern": "^/Features/",
+        "label": "Features"
+      },
+      {
         "pattern": "^/Purchasing/",
         "label": "Purchasing"
       }

@@ -1,6 +1,7 @@
 ---
 title: "How To Learn Photography"
 tags: ["basics"]
+sort: 1
 ---
 
 # How to Learn Photography
