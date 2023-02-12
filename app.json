@@ -12,6 +12,10 @@
         "label": "Camera Parts"
       },
       {
+        "pattern": "^/Principles/",
+        "label": "Principles"
+      },
+      {
         "pattern": "^/Features/",
         "label": "Features"
       },
