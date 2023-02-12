@@ -1,6 +1,6 @@
 ---
 title: The Lens Mount
-tags: [Lens]
+tags: ['Lens']
 ---
 
 # Lens Mount

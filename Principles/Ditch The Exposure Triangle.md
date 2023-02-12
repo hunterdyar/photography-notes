@@ -1,6 +1,6 @@
 ---
 title: "Ditch the Exposure Triangle"
-tags: ['exposure']
+tags: ["exposure"]
 ---
 
 The exposure triangle is one of my biggest pet peeves in photography education. Banish it from your mind, it's not a helpful mental model.
